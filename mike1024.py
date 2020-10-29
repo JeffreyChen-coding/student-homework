@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 29 13:45:16 2020
 
-@author: K0718
+
 """
 
 from pytube import YouTube
